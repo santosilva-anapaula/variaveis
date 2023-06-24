@@ -1,3 +1,9 @@
 Tarefa 15 - Variáveis
 
 Pagina html que ai ser carregada exibe um alerta informando que acabou de ser carregada.
+
+ Declaração de duas variáveis, com um valor em cada uma e que faz:
+    uma soma;
+    uma divisão;
+    uma multiplicação;
+    uma comparação para ver se os valores são iguais.
